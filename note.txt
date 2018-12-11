@@ -1,4 +1,4 @@
 """
-it requires email id and password in "send_email.py" in order to receive emails from users.
+it requires email id and password in "send_email.py" in order to receive email from users.
 
 """
